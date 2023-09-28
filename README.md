@@ -1,6 +1,13 @@
 # my-first-nodejs-api
 Uretimhane Node.js Egzersizleri
 
+## Clone
+```sh
+git clone https://github.com/hwclass/my-first-nodejs-api
+# ...
+cd my-first-nodejs-api
+```
+
 ## Install
 ```sh
 npm i
