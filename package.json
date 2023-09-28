@@ -1,0 +1,21 @@
+{
+  "name": "my-first-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "api": "nodemon fastify-with-post.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "@fastify/static": "^6.11.2",
+    "fastify": "^4.23.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
